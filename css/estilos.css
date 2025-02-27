@@ -1,0 +1,175 @@
+body{
+    background-color: aquamarine;
+}
+.main{
+    background-color: rgb(34, 157, 214);
+    width: 500px;
+    height: 500px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 20px;
+}
+.amarillo{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 350px;
+    left: 300px;
+}
+.roja{
+    background-color: rgb(234, 42, 42);
+    width: 100px;
+    height: 100px;
+    top: 55px;
+    position: fixed;
+    left: 150px;
+    top: 200px;
+}
+.verde{
+    background-color: rgb(43, 232, 26);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
+.caja1{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 260px;
+    left: 191px;
+    border-radius:100px;
+}
+.caja2{
+    background-color: rgb(234, 42, 42);
+    width: 100px;
+    height: 100px;
+    top: 55px;
+    position: fixed;
+    left: 215px;
+    top: 160px;
+    border-radius:50px;
+}
+.caja3{
+    background-color: rgb(43, 232, 26);
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 120px;
+    left: 280px;
+    border-radius:50px;
+}
+.caja4{
+    background-color: rgb(169, 39, 239);
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 120px;
+    left: 200px;
+    border-radius:50px;
+}
+.ojo{
+    background-color: rgb(0, 0, 0);
+    width: 20px;
+    height: 15px;
+    position: fixed;
+    top: 185px;
+    left: 250px;
+    border-radius:70%;
+}
+.ojo2{
+    background-color: rgb(0, 0, 0);
+    width: 20px;
+    height: 15px;
+    position: fixed;
+    top: 185px;
+    left: 280px;
+    border-radius:70%;
+}
+.nariz{
+    background-color: rgb(0, 0, 0);
+    width: 10px;
+    height: 10px;
+    position: fixed;
+    top: 205px;
+    left: 265px;
+    border-radius:50px;
+}
+.boca{
+    background-color: rgb(0, 0, 0);
+    width: 40px;
+    height: 12px;
+    position: fixed;
+    top: 220px;
+    left: 250px;
+    border-radius:50%;
+}
+.mano1{
+    background-color: rgba(232, 154, 36, 0.979);
+    width: 100px;
+    height: 30px;
+    position: fixed;
+    top: 270px;
+    left: 300px;
+    border-radius:50%;
+}
+.mano2{
+    background-color: rgba(232, 154, 36, 0.979);
+    width: 70px;
+    height: 20px;
+    position: fixed;
+    top: 285px;
+    left: 145px;
+    border-radius:50%;
+}
+.mano3{
+    background-color: rgba(232, 154, 36, 0.979);
+    width: 70px;
+    height: 30px;
+    position: fixed;
+    top: 370px;
+    left: 145px;
+    border-radius:50%;
+}
+.mano4{
+    background-color: rgba(232, 154, 36, 0.979);
+    width: 60px;
+    height: 35px;
+    position: fixed;
+    top: 370px;
+    left: 310px;
+    border-radius:50%;
+}
+.oreja1{
+    background-color:orange;
+    width: 10px;
+    height: 20px;
+    position: fixed;
+    top: 135px;
+    left: 220px;
+    border-radius:50%;
+}
+.oreja2{
+    background-color: orange;
+    width: 10px;
+    height: 20px;
+    position: fixed;
+    top: 135px;
+    left: 300px;
+    border-radius:50%;
+}
+.mi-nombre{
+    background-color: purple;
+    width: 450px;
+    height: 50px;
+    position: fixed;
+    top: 485px;
+    left: 53px;
+}
+p{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
